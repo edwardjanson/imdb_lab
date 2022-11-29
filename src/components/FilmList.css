@@ -1,0 +1,9 @@
+ul {
+    text-align: left;
+    width: 40%;
+    margin: 2rem auto;
+}
+
+li:not(:last-child) { 
+    margin-bottom: 0.8rem;  
+ }
